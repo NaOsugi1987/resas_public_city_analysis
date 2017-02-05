@@ -1,0 +1,2 @@
+# resas_public_city_analysis
+RESASのデータの内、市町村ごとの横断分析を目的
